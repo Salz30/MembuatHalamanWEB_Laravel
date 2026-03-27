@@ -26,7 +26,7 @@
             <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                 <div class="card h-100 shadow-sm border-0 hover-lift rounded-4 bg-white">
                     <div class="card-body p-4">
-                        <img src="{{ asset('images/individual.png') }}" alt="Individual" class="mb-3" style="width: 80px;">
+                        <img src="{{ asset('images/individual.jpg') }}" alt="Individual" class="mb-3" style="width: 80px;">
                         <h5 class="card-title fw-bold">Konseling Individual</h5>
                         <p class="card-text text-muted">Layanan tatap muka untuk membantu mengentaskan masalah siswa.</p>
                         <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">Selengkapnya</a>
@@ -37,7 +37,7 @@
             <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
                 <div class="card h-100 shadow-sm border-0 hover-lift rounded-4 bg-white">
                     <div class="card-body p-4">
-                        <img src="{{ asset('images/kelompok.png') }}" alt="Kelompok" class="mb-3" style="width: 80px;">
+                        <img src="{{ asset('images/kelompok.jpg') }}" alt="Kelompok" class="mb-3" style="width: 80px;">
                         <h5 class="card-title fw-bold">Konseling Kelompok</h5>
                         <p class="card-text text-muted">Mengatasi masalah bersama memanfaatkan dinamika kelompok.</p>
                         <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">Selengkapnya</a>
@@ -48,7 +48,7 @@
             <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
                 <div class="card h-100 shadow-sm border-0 hover-lift rounded-4 bg-white">
                     <div class="card-body p-4">
-                        <img src="{{ asset('images/orientasi.png') }}" alt="Orientasi" class="mb-3" style="width: 80px;">
+                        <img src="{{ asset('images/orientasi.jpg') }}" alt="Orientasi" class="mb-3" style="width: 80px;">
                         <h5 class="card-title fw-bold">Layanan Orientasi</h5>
                         <p class="card-text text-muted">Mengenalkan lingkungan sekolah baru kepada siswa.</p>
                         <a href="#" class="btn btn-outline-danger btn-sm rounded-pill px-4">Selengkapnya</a>
